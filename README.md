@@ -8,8 +8,7 @@ Soldering  DONE.
 ![alt text](https://github.com/contactkoh/lab-prep3/blob/master/solder1.jpg)
 
 
-Link to my Sketch State Diagram
-![alt text](https://github.com/contactkoh/lab-prep3/blob/master/prelab3.pdf)
+[Link to my Sketch State Diagram](https://github.com/contactkoh/lab-prep3/blob/master/prelab3.pdf)
 
 
 10 Possible Ideas sketches
